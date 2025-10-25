@@ -20,8 +20,8 @@ Before running the program, make sure you have the following installed:
 - pipenv (for managing virtual environments and dependencies)
 
 Main Python Libraries:
-- 'pygame' — for graphical simulation
-- 'pytest' — for automated testing
+- ' pygame ' — for graphical simulation
+- "pytest" — for automated testing
 
 
 ## Installing 
