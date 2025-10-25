@@ -29,55 +29,66 @@ Main Python Libraries:
 > 'pytest' — for automated testing
 
 ## Installing 
-### 1. Clone the repository from GitHub
-
+#### 1. Clone the repository from GitHub
 ```bash 
-git clone (https://github.com/mxncsn/Conways-Game-of-Life).git
+git clone https://github.com/mxncsn/Conways-Game-of-Life .git
 cd Conways-Game-of-Life
 ```
-
 #### 2. Install pipenv (if not already installed)
-
 ```bash 
 pip install pipenv
 ```
-
-##### 3. Install all dependencies
-
+#### 3. Install all dependencies
 ```bash 
 pipenv install
 ```
-
-### 4. Activate the virtual environment
-
+#### 4. Activate the virtual environment
 ```bash 
 pipenv shell
 ```
+
 
 ## Executing Program
 To run the Game of Life simulation, follow these steps:
 
-1. Open the project folder in VS Code or your preferred IDE.
+#### 1. Open the project folder in VS Code or your preferred IDE.
 
-2. Activate the pipenv environment:
-
+#### 2. Activate the pipenv environment:
 ```bash 
 pipenv shell
 ```
-
-3. Run the main simulation program:
+#### 3. Run the main simulation program:
 ```bash 
 python main.py
 ```
-4. To run automated tests using Pytest:
+#### 4. To run automated tests using Pytest:
 ```bash 
 pipenv run python -m pytest
 ```
 
+# Help
+If you encounter issues with pipenv not being recognized, ensure that it is installed correctly and added to your PATH.
+You can verify installation with:
+
+```bash 
+pip show pipenv
+```
+
+If dependencies fail to install, try running:
+```bash 
+pipenv --rm
+pipenv install
+```
+
+
+## Authors
+
+Contributors:
+- Ajman Mocsana            (Ajman0525)
+- Ryan Nichole Recososa    (Ry-Ry19)
+- Amin Casan               (mxncsn)
+
+Developed for the TDD Programming Competition using Python and Visual Studio Code.
 
 
 
-
-
-
-  
