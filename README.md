@@ -81,11 +81,19 @@ pipenv install
 ## Authors
 
 Contributors:
-- Ajman Mocsana            (Ajman0525)
-- Ryan Nichole Recososa    (Ry-Ry19)
-- Amin Casan               (mxncsn)
+- Ajman Mocsana       
+- Ryan Nichole Recososa    
+- Amin Casan               
 
 Developed for the TDD Programming Competition using Python and Visual Studio Code.
+
+
+
+
+
+
+
+
 
 
 
