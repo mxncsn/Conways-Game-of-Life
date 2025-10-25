@@ -24,15 +24,15 @@ Before running the program, make sure you have the following installed:
 
 Main Python Libraries:
 
-> pygame — for graphical simulation
+> 'pygame' — for graphical simulation
 
-> pytest — for automated testing
+> 'pytest' — for automated testing
 
 ## Installing 
 ###1. Clone the repository from GitHub
-<pre>
+<Conways-Game-of-Life>
 ```git clone (https://github.com/mxncsn/Conways-Game-of-Life).git```
-cd <Conways-Game-of-Life>
+cd Conways-Game-of-Life
 </Conways-Game-of-Life>
 
 
