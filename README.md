@@ -30,22 +30,32 @@ Main Python Libraries:
 
 ## Installing 
 ### 1. Clone the repository from GitHub
-<pre>
+
 ```bash 
 git clone (https://github.com/mxncsn/Conways-Game-of-Life).git
-cd Conways-Game-of-Life```
-</Conways-Game-of-Life>
-
+cd Conways-Game-of-Life
+```
 
 #### 2. Install pipenv (if not already installed)
 
+```bash 
+git clone (https://github.com/mxncsn/Conways-Game-of-Life).git
+cd Conways-Game-of-Life
+```
 
 ##### 3. Install all dependencies
 
+```bash 
+git clone (https://github.com/mxncsn/Conways-Game-of-Life).git
+cd Conways-Game-of-Life
+```
 
 ### 4. Activate the virtual environment
 
-
+```bash 
+git clone (https://github.com/mxncsn/Conways-Game-of-Life).git
+cd Conways-Game-of-Life
+```
 
 
 
