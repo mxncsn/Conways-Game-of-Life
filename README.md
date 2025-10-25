@@ -16,15 +16,15 @@ Before running the program, make sure you have the following installed:
 
 > Windows 10 / macOS / Linux
 
--> Python 3.13 or higher
+> Python 3.13 or higher
 
--> pip (Python package manager)
+> pip (Python package manager)
 
--> pipenv (for managing virtual environments and dependencies)
+> pipenv (for managing virtual environments and dependencies)
 
 Main Python Libraries:
 
--> pygame — for graphical simulation
+> pygame — for graphical simulation
 
--> pytest — for automated testing
+> pytest — for automated testing
 
