@@ -39,27 +39,40 @@ cd Conways-Game-of-Life
 #### 2. Install pipenv (if not already installed)
 
 ```bash 
-git clone (https://github.com/mxncsn/Conways-Game-of-Life).git
-cd Conways-Game-of-Life
+pip install pipenv
 ```
 
 ##### 3. Install all dependencies
 
 ```bash 
-git clone (https://github.com/mxncsn/Conways-Game-of-Life).git
-cd Conways-Game-of-Life
+pipenv install
 ```
 
 ### 4. Activate the virtual environment
 
 ```bash 
-git clone (https://github.com/mxncsn/Conways-Game-of-Life).git
-cd Conways-Game-of-Life
+pipenv shell
 ```
 
+## Executing Program
+To run the Game of Life simulation, follow these steps:
 
+1. Open the project folder in VS Code or your preferred IDE.
 
+2. Activate the pipenv environment:
 
+```bash 
+pipenv shell
+```
+
+3. Run the main simulation program:
+```bash 
+python main.py
+```
+4. To run automated tests using Pytest:
+```bash 
+pipenv run python -m pytest
+```
 
 
 
