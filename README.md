@@ -1,4 +1,4 @@
-# Generating Conway's Game of Life using Python
+## Generating Conway's Game of Life using Python
 A simulation of Conway’s Game of Life built using Python and developed following the Test-Driven Development (TDD) approach. 
 The project demonstrates the application of automated testing and Python-based visualization using Pygame.
 
@@ -28,3 +28,6 @@ Main Python Libraries:
 
 > pytest — for automated testing
 
+# Installing 
+'''git clone https://github.com/<your-username>/<your-repo-name>.git
+cd <your-repo-name>''' 
