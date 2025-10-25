@@ -29,14 +29,29 @@ Main Python Libraries:
 > 'pytest' — for automated testing
 
 ## Installing 
-###1. Clone the repository from GitHub
-<Conways-Game-of-Life>
+### 1. Clone the repository from GitHub
+<bash>
 ```git clone (https://github.com/mxncsn/Conways-Game-of-Life).git```
-cd Conways-Game-of-Life
+```cd Conways-Game-of-Life```
 </Conways-Game-of-Life>
 
 
-##
+### 2. Install pipenv (if not already installed)
+
+
+### 3. Install all dependencies
+
+
+### 4. Activate the virtual environment
+
+
+
+
+
+
+
+
+
 
 
 
