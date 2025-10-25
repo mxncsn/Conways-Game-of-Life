@@ -28,15 +28,15 @@ Main Python Libraries:
 
 > pytest — for automated testing
 
-### Installing 
+## Installing 
+###1. Clone the repository from GitHub
 <pre>
 ```git clone (https://github.com/mxncsn/Conways-Game-of-Life).git```
-
-```cd <Conways-Game-of-Life>```
-</Conways-Game-of-Life>pre>
-
+cd <Conways-Game-of-Life>
+</Conways-Game-of-Life>
 
 
+##
 
 
 
